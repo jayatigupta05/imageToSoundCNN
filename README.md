@@ -23,7 +23,7 @@ Detect everyday objects in a webcam feed and hear them spoken aloud **only after
 
 ## 📊 Workflow
 
-<img src="assets/workflow.png" alt="Workflow Diagram" width="600"/>
+<img src="assets/see and speak workflow.png" alt="Workflow Diagram" width="300"/>
 
 ---
 
